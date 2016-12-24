@@ -1,0 +1,43 @@
+html{
+  margin: 0;
+}
+
+body{
+  margin: 0;
+  font-family: monospace;
+}
+
+h2{
+  margin: 0;
+}
+
+p{
+  margin: 0;
+}
+
+.headBar{
+  background-color: #595959;
+  color: #f2840e;
+  padding: 10px 30px 10px 30px;
+  font-family: monospace;
+  margin: 0;
+}
+
+#headText{
+  text-align: left;
+  font-size: 30px;
+  margin: 0;
+}
+
+#imageOne{
+  width: 100%;
+  margin: 0;
+  height: auto;
+}
+
+#descriptionOne{
+  margin: 0;
+  padding: 15px 35px 15px 35px;
+  background-color: #595959;
+  color: #f2840e;
+}
